@@ -1,5 +1,5 @@
 <script>
-	eort let name;
+	export let name;
 </script>
 
 <main>
